@@ -16,3 +16,9 @@ To change the number of expirements you did find and replace the number 5 with w
 To change the diffrence in mass each time I.E
 3 trials of 10g then 3 trials of 20g the change is 10g find and replace 10 with whatever
 The naming format MUST be as follows <WEIGHT>gt<TRIALNUMBER> then at the top of the file you must change add file names based on what you want so like using that format but list up at the top of the file BUT IT MUST BE GROUPED WITH THE TRIALS OF THE SAME EXPIREMENT
+Values of the spoofer function have been <REDACTED> please set your own this determines the uniformity of curve and how we determined these was with complex ai thus it has been redacted on the grounds of IP. In the furture these values will be posted but as they are currently private please determine your own based on standered regression or JUST DON USE UNIFORM.
+spoofer settings that arent terrible are the following 
+1.150000,0.283318,0.378729,0.280752 <-- IMPLICT
+1.200000,0.302698,0.390544,0.260585 <-- IMPLICT
+1.250000,0.322248,0.404073,0.248199 <-- IMPLICT
+1.300000,0.343000,0.418174,0.182669 <-- EXPLICT
